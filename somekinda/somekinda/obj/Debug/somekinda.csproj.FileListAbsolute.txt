@@ -1,0 +1,6 @@
+c:\users\ahmandizzudin\documents\visual studio 2015\Projects\somekinda\somekinda\bin\Debug\somekinda.exe.config
+c:\users\ahmandizzudin\documents\visual studio 2015\Projects\somekinda\somekinda\obj\Debug\somekinda.csprojResolveAssemblyReference.cache
+c:\users\ahmandizzudin\documents\visual studio 2015\Projects\somekinda\somekinda\bin\Debug\somekinda.exe
+c:\users\ahmandizzudin\documents\visual studio 2015\Projects\somekinda\somekinda\bin\Debug\somekinda.pdb
+c:\users\ahmandizzudin\documents\visual studio 2015\Projects\somekinda\somekinda\obj\Debug\somekinda.exe
+c:\users\ahmandizzudin\documents\visual studio 2015\Projects\somekinda\somekinda\obj\Debug\somekinda.pdb
